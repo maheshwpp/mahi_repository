@@ -1,0 +1,9 @@
+---
+username: kitchen
+ssh_key: "/home/ec2-user/chef-repo/cookbooks/apache/.kitchen/docker_id_rsa"
+image_id: 11bcec361498
+container_id: d1bbacd34b8480890c086c480f8f5bb45405f6f85da413934e693a7a76adb68f
+hostname: localhost
+port: 32774
+last_action: create
+last_error: Kitchen::ActionFailed
